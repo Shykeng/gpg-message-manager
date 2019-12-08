@@ -26,7 +26,7 @@ The architecture of your `gpgDir` must match this tree in order to make the util
 │   └── msg_for_aurelien_20191202_013102.asc
 ├── pub
 │   ├── marie_pub.asc
-│   ├── antoine_rouge.asc
+│   ├── antoine_pub.asc
 │   └── paul_pub.asc
 ├── sig
 │   ├── adr_for_antoine_rayquaza.asc.sig
