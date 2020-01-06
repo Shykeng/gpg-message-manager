@@ -61,7 +61,7 @@ Welcome to GnuPG !
 [8] Sign a file
 [9] Verify a file
 
-[!] Exit
+[10] Exit
 
 >>>
 
